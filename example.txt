@@ -1,2 +1,2 @@
-Hello, this is a file handling example in C++.
+Hello, this is a file handling example in C++ using open().
 File handling helps to store data permanently.
